@@ -12,3 +12,5 @@ The game is fully editable by parameters.py, so adding and modifying the worlds 
 game code.
 
 To edit the game worlds, change the files in the asset folder and pass the coordinates of each object in the parameters.py
+World objects can be modified from line 227 in parameters.py
+Do not forget to insert the number of world in line 191 
