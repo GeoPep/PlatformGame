@@ -1,0 +1,10 @@
+Most of the assets are not mine, but have been downloaded from the internet
+None of them is used for commercial puprose
+Sounds: https://freesound.org/people/LittleRobotSoundFactory/packs/16681/
+Explosion: https://pnghut.com/png/d2VzWS5AmX/sprite-explosion-animated-film-2d-computer-graphics-spacecraft-transparent-png
+Enemy: https://opengameart.org/content/2d-platformer-enemies
+background: http://goldfieldupc.com/ and https://cutewallpaper.org/22/4k-green-minimalist-wallpapers/view-page-22.html
+coin: https://www.vectorstock.com/royalty-free-vector/euro-coin-rotating-gif-animation-sprite-sheet-vector-28057867
+fireball: https://www.nicepng.com/ourpic/u2q8y3r5e6o0w7u2_fireball-sprite-png-fireball-sprite/
+player: https://www.clipartkey.com/view/oxoJib_2d-character-sprite-png/
+dust splash: https://www.dreamstime.com/illustration/dust-sprite.html
